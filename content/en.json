@@ -1,0 +1,31 @@
+{
+  "Home": {
+    "navigation": {
+      "steps": "Steps",
+      "advantages": "Advantages",
+      "founders": "Founders",
+      "amazingdubai": "Amazing Dubai",
+      "contact": "Contact"
+    },
+    "title": "Your Swiss real estate expert in Dubai",
+    "intro": "Luxury at your fingertips",
+    "subtitle": "We are delighted to accompany you on your journey to acquire real estate in Dubai, from the comfort of your home in Switzerland.",
+    "selectiontitle": "Our selection",
+    "selectiontext": "Explore our exclusive selection of real estate projects in Dubai and take your first step towards acquiring a luxury property.",
+    "selectionBtn": "View projects",
+    "reservationtitle": "Reservation",
+    "reservationtxt": "Reserve your future Dubai property today by completing our secure online reservation form",
+    "reservationBtn": "Find out more",
+    "plandepaiement": "Payment plan",
+    "plandepaiementtxt": "Optimize your investment with our flexible payment options, including installments during construction",
+    "plandepaiementBtn": "View options",
+    "gerancetitre": "Management",
+    "gerancetxt": "Entrust us with the management of your property from the moment you hand over the keys, and benefit from attractive rental yields thanks to our expertise",
+    "geranceBtn": "See our services",
+    "resale": "Resale",
+    "reventetxt": "Discover our professional assistance for the resale of your property in Dubai and maximize your profits with effective strategies",
+    "reventeBtn": "Discover",
+    "Besoindeconseil": "Need advice?",
+    "contactbtn": "Contact us"
+  }
+}

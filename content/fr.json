@@ -1,0 +1,31 @@
+{
+  "Home": {
+    "navigation": {
+      "steps": "5 Etapes",
+      "advantages": "Avantages",
+      "founders": "Les Fondateurs",
+      "amazingdubai": "Amazing Dubai",
+      "contact": "Contact"
+    },
+    "title": "Votre Expert suisse pour l’immobilier à Dubai",
+    "intro": "Le luxe à portée de mains ",
+    "subtitle": "Nous sommes ravis de vous accompagner dans votre voyage vers l'acquisition d'un bien immobilier à Dubaï, depuis le confort de votre domicile en Suisse.",
+    "selectiontitle": "Notre sélection",
+    "selectiontext": "Explorez notre sélection exclusive de  projets immobiliers à Dubaï et faites un premier pas vers l'acquisition d'une propriété de luxe.",
+    "selectionBtn": "Voir les projets",
+    "reservationtitle": "Réservation",
+    "reservationtxt": "Réservez dès aujourd'hui votre futur bien immobilier à Dubaï en remplissant notre formulaire de réservation en ligne sécurisé",
+    "reservationBtn": "En savoir plus",
+    "plandepaiement": "Plan de paiement",
+    "plandepaiementtxt": "Optimisez votre investissement avec nos options de paiement flexibles, incluant des versements échelonnés pendant la construction",
+    "plandepaiementBtn": "Voir les options",
+    "gerancetitre": "Gérance",
+    "gerancetxt": "Confiez-nous la gestion de votre propriété dès la remise des clés et profitez d'un rendement locatif attractif grâce à notre expertise",
+    "geranceBtn": "Voir nos services",
+    "revente": "Revente",
+    "reventetxt": "Découvrez notre assistance professionnelle pour la revente de votre bien immobilier à Dubaï et maximisez vos profits avec des stratégies efficaces",
+    "reventeBtn": "Découvrir",
+    "Besoindeconseil": "Besoin de conseils ?",
+    "contactbtn": "Nous contacter"
+  }
+}
