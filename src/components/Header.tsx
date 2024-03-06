@@ -9,7 +9,7 @@ const Header = () => {
   const themeSwitcherRef = useRef<HTMLDivElement>(null);
 
   return (
-    <header className="bg-[#120F0F]  flex items-center justify-between py-4 shadow shadow-gray-200 bg-baseOne transition-colors duration-300 lg:px-[160px] sm:px-[40px] px-[16px]">
+    <header className="bg-black text-white flex items-center justify-between py-4 shadow shadow-gray-200 bg-baseOne transition-colors duration-300 lg:px-[160px] sm:px-[40px] px-[16px]">
       <div>
         <Image
           src={Logo}

@@ -47,3 +47,8 @@
 .delay-2 {
   animation-delay: 0.3s;
 }
+
+.background {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)), url('./assets/img/luxury-dubai.webp');
+  background-size: cover;
+}
