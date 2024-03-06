@@ -1,12 +1,15 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Metrophobic } from "next/font/google";
 import "../../globals.css";
 
 type FontObject = {
   className: string;
 };
 
-const inter: FontObject = Inter({ subsets: ["latin"] });
+const metrophobic: FontObject = Metrophobic({
+  subsets: ["latin"],
+  weight: "400",
+});
 
 export const metadata: Metadata = {
   title: "Swiss Immo Dubai",
@@ -21,7 +24,7 @@ interface RootLayoutProps {
 export default function RootLayout({ children, locale }: RootLayoutProps) {
   return (
     <html lang={locale}>
-      <body className={inter.className}>{children}</body>
+      <body className={metrophobic.className}>{children}</body>
     </html>
   );
 }

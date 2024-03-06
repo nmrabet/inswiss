@@ -6,7 +6,6 @@ import { usePathname } from "next/navigation";
 import gbFlag from "../assets/img/bg_flag.png";
 import frFlag from "../assets/img/fr_flag.png";
 
-
 const LangSwitcher: React.FC = () => {
   interface Option {
     country: string;
@@ -22,7 +21,6 @@ const LangSwitcher: React.FC = () => {
   const options: Option[] = [
     { country: "English", code: "en", flag: gbFlag },
     { country: "French", code: "fr", flag: frFlag },
-
   ];
 
   const setOption = (option: Option) => {
@@ -34,7 +32,7 @@ const LangSwitcher: React.FC = () => {
     <div className="flex items-center justify-center bg-gray-100">
       <div className="relative text-lg w-48">
         <button
-          className=" justify-between w-full border border-gray-500 text-white bg-[#00DDFF] hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+          className="bg-[#002A3A] justify-between w-full border border-none text-white focus:outline-none focus:ring-blue-300 font-medium  text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
           onClick={() => setIsOptionsExpanded(!isOptionsExpanded)}
           onBlur={() => setIsOptionsExpanded(false)}
         >
@@ -62,11 +60,11 @@ const LangSwitcher: React.FC = () => {
               : "translate-y-0 scale-y-100 opacity-100"
           }`}
         >
-          <ul className="absolute left-0 right-0 mb-4 bg-white divide-y rounded-lg shadow-lg overflow-hidden">
+          <ul className="absolute left-0 right-0 mb-4  rounded-lg shadow-lg overflow-hidden">
             {options.map((option, index) => (
               <li
                 key={index}
-                className="px-3 py-2 transition-colors duration-300 hover:bg-gray-200 flex items-center cursor-pointer"
+                className="bg-[#002A3A] px-3 py-2 transition-colors duration-300 hover:bg-gray-900 flex items-center cursor-pointer"
                 onMouseDown={(e) => {
                   e.preventDefault();
                   setOption(option);
