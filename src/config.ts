@@ -6,11 +6,11 @@ export const pathnames = {
   '/': '/',
   '/steps': {
     fr: '/les-etapes',
-    en: '/steps'
+    en: '/process'
   },
   '/advantages': {
     fr: '/les-avantages',
-    en: '/advantages'
+    en: '/benefits'
   },
   '/founders': {
     fr: '/les-fondateurs',
