@@ -1,16 +1,24 @@
 import createMiddleware from 'next-intl/middleware';
+import {pathnames, locales, localePrefix} from './config';
 
-const middleware = createMiddleware({
-  // Add locales you want in the app
-  locales: ['fr', 'en'],
-
-  // Default locale if no match
-  defaultLocale: 'fr'
+export default createMiddleware({
+  defaultLocale: 'fr',
+  locales,
+  pathnames,
+  localePrefix
 });
 
-export default middleware;
-
 export const config = {
-  // Match only internationalized pathnames
-  matcher: ['/', '/(en|fr)/:page*']
+  matcher: [
+    // Enable a redirect to a matching locale at the root
+    '/',
+
+    // Set a cookie to remember the previous locale for
+    // all requests that have a locale prefix
+    '/(fr|en)/:path*',
+
+    // Enable redirects that add missing locales
+    // (e.g. `/pathnames` -> `/en/pathnames`)
+    '/((?!_next|_vercel|.*\\..*).*)'
+  ]
 };

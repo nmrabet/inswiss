@@ -1,13 +1,14 @@
 import React from "react";
 import Header from "@/components/Header";
 import { useTranslations } from "next-intl";
+import { Link } from "../navigation";
 
 export default function Navbar() {
-    const t = useTranslations("Home");
+  const t = useTranslations("Home");
 
   // Extract the navigation object keys from the translations
   const navigationKeys = Object.keys(t.raw("navigation"));
-  
+
   return (
     <>
       <Header />
@@ -15,7 +16,7 @@ export default function Navbar() {
         <ul className="absolute top-8 flex items-center space-x-5 text-white">
           {navigationKeys.map((key) => (
             <li key={key} className="animate pop delay-1">
-              <a href={`#/${key}`}>{t(`navigation.${key}`)}</a>
+              <Link href={`/${key}`}>{t(`navigation.${key}`)}</Link>
             </li>
           ))}
         </ul>
