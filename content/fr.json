@@ -38,6 +38,27 @@
     "object": "Objet de luxe",
     "success": "95.00% de succès",
     "buyinDubai": "Le rêve d’un appartement à Dubaï commence dès 140'000 CHF.- ! Et oui ! A ce prix là vous aurezun studio flambant neuf de 40 m2 enTIèrement meublé, une place de garage, ainsi que detoutes les infrastructures indispensables (piscine, fitness, crèche, espace coworking, minimarket…). Le tout dans des quartiers populaires et moderne qui connaissent undéveloppement spectaculaire",
-    "pricing": "Ce type d’objet est très apprécié de nos investisseurs, car il représente un prix de seulement 3500 francs le m² et génère des rendements de 10% et plus. Si vous désirez partir sur des objets plus luxueux se situant dans le Downtown (Burj Kalifa) ou à la Marina les prix varient entre 6500.- et 8000.- le m². Ce qui est dérisoire quand on sait que le m² à Genève flirte avec les 20'000 francs. Et pour ceux qui désire de l’ultra-luxe les prix seront bien sûr beaucoup plus élevés."
+    "pricing": "Ce type d’objet est très apprécié de nos investisseurs, car il représente un prix de seulement 3500 francs le m² et génère des rendements de 10% et plus. Si vous désirez partir sur des objets plus luxueux se situant dans le Downtown (Burj Kalifa) ou à la Marina les prix varient entre 6500.- et 8000.- le m². Ce qui est dérisoire quand on sait que le m² à Genève flirte avec les 20'000 francs. Et pour ceux qui désire de l’ultra-luxe les prix seront bien sûr beaucoup plus élevés.",
+    "exclusiveProject": "Nos Projets Exclusifs",
+    "withUs": "Chez nous vous trouverez uniquement des appartements sur plan livré entre 2 et 4 ans et bénéficiant de plan de paiements échelonnés et très attrayants. Dans la plupart des cas les objets sont livrés entièrement meublés et équipés.",
+    "banner": "Une fois les clés reçues nous pouvons aussi nous occuper de la gérance des locations, afin que votre investissement soit immédiatement rentable.",
+    "bannerSub": "Les rendements possibles varient de 8 à 20% selon l’emplacement et le type de location (à l’année ou Airbnb).",
+    "knowMore": "En savoir plus",
+    "testimonial": "Qu’en pensent nos clients ?",
+    "tesimonialPres": "Découvrez ce que nos clients satisfaits ont à dire sur leur expérience avec Swiss Immo Dubai. Explorez leurs histoires inspirantes et rejoignez-nous pour réaliser vos propres succès immobiliers à Dubaï",
+    "Testimonies": {
+      "testimony1": {
+        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+        "author": "Jane Doe"
+      },
+      "testimony2": {
+        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+        "author": "Jane Doe"
+      },
+      "testimony3": {
+        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+        "author": "Jane Doe"
+      }
+    }
   }
 }

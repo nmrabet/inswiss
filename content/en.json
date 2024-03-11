@@ -39,6 +39,27 @@
     "object": "Luxury object",
     "success": "95.00% success",
     "buyinDubai": "The dream of an apartment in Dubai starts at just CHF 140,000! That's right! At this price, you'll get a brand-new, fully-furnished 40 m2 studio, a garage space, and all the essential infrastructure (swimming pool, fitness center, childcare center, coworking space, minimarket...). All this in a spectacularly developed, popular and modern district.",
-    "pricing": "This type of property is very popular with our investors, as it costs just 3,500 CHF per m² and generates returns of 10% or more. If you're looking for more luxurious properties in the Downtown (Burj Kalifa) or Marina areas, prices range from 6,500 to 8,000 CHF per m². A derisory figure when you consider that a square meter in Geneva flirts with the 20,000 CHF mark. And for those who desire ultra-luxury, prices will of course be much higher."
+    "pricing": "This type of property is very popular with our investors, as it costs just 3,500 CHF per m² and generates returns of 10% or more. If you're looking for more luxurious properties in the Downtown (Burj Kalifa) or Marina areas, prices range from 6,500 to 8,000 CHF per m². A derisory figure when you consider that a square meter in Geneva flirts with the 20,000 CHF mark. And for those who desire ultra-luxury, prices will of course be much higher.",
+    "exclusiveProject": "Our Exclusive Projects",
+    "withUs": "With us, you'll only find off-plan apartments delivered within 2 to 4 years, with attractive staggered payment plans. In most cases, the properties are delivered fully furnished and equipped.",
+    "banner": "Once we have received the keys, we can also take care of the management of the rentals, so that your investment is immediately profitable.",
+    "bannerSub": "Possible returns vary from 8 to 20% depending on location and type of rental (year-round or Airbnb).",
+    "knowMore": "Find out more",
+    "testimonial": "What do our customers think?",
+    "tesimonialPres": "Find out what our satisfied customers have to say about their experience with Swiss Immo Dubai. Explore their inspiring stories and join us in achieving your own real estate successes in Dubai.",
+    "Testimonies": {
+      "testimony1": {
+        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+        "author": "Jane Doe"
+      },
+      "testimony2": {
+        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+        "author": "Jane Doe"
+      },
+      "testimony3": {
+        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+        "author": "Jane Doe"
+      }
+    }
   }
 }

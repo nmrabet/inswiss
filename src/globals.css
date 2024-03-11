@@ -62,3 +62,10 @@
   background-color:#002A3A;
   border-bottom: 2px solid rgba(255, 255, 255, .1)
 }
+
+.bg-house {
+  background-image: url(./assets/img/scetch-project-2\ 1.png);
+  background-position: contain;
+  height: 1000px;
+  background-repeat: no-repeat;
+}
