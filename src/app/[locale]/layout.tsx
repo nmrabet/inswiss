@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Metrophobic } from "next/font/google";
+import { Metrophobic, Open_Sans } from "next/font/google";
 import "../../globals.css";
 
 type FontObject = {
@@ -9,6 +9,13 @@ type FontObject = {
 const metrophobic: FontObject = Metrophobic({
   subsets: ["latin"],
   weight: "400",
+  variable: "--font-metrophobic",
+});
+
+const openSans: FontObject = Open_Sans({
+  subsets: ["latin"],
+  display: "swap",
+  variable: "--font-opensans",
 });
 
 export const metadata: Metadata = {
@@ -23,7 +30,10 @@ interface RootLayoutProps {
 
 export default function RootLayout({ children, locale }: RootLayoutProps) {
   return (
-    <html lang={locale}>
+    <html
+      lang={locale}
+      className={`${openSans.variable} ${metrophobic.variable} font-sans`}
+    >
       <body className={metrophobic.className}>{children}</body>
     </html>
   );

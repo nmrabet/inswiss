@@ -9,6 +9,7 @@
     },
     "selectlang": "Select language",
     "title": "Your Swiss Real Estate expert in Dubai",
+    "heroBtn": "See projects",
     "intro": "Luxury at your fingertips",
     "subtitle": "We are delighted to accompany you on your journey to acquire real estate in Dubai, from the comfort of your home in Switzerland.",
     "selectiontitle": "Our selection",
@@ -24,9 +25,20 @@
     "gerancetxt": "Entrust us with the management of your property from the moment you hand over the keys, and benefit from attractive rental yields thanks to our expertise",
     "geranceBtn": "See our services",
     "resale": "Resale",
-    "reventetxt": "Discover our professional assistance for the resale of your property in Dubai and maximize your profits with effective strategies",
-    "reventeBtn": "Discover",
+    "revente": "Revente",
+    "reventetxt": "Découvrez notre assistance professionnelle pour la revente de votre bien immobilier à Dubaï et maximisez vos profits avec des stratégies efficaces",
+    "reventeBtn": "Découvrir",
     "Besoindeconseil": "Need advice?",
-    "contactbtn": "Contact us"
+    "contactbtn": "Contact us",
+    "services": "Our services",
+    "servicesTitle": "Everything is done from our beautiful country with the greatest simplicity",
+    "servicesSub": "Administrative formalities are made easy thanks to our reliable partners who are on Emirati soil all year round",
+    "servicesText": "We have selected the best projects and the most reliable developers, so you won't have any unpleasant surprises. From there, all you have to do is make your choice:",
+    "rendement": "Yield object",
+    "residence": "Second home",
+    "object": "Luxury object",
+    "success": "95.00% success",
+    "buyinDubai": "The dream of an apartment in Dubai starts at just CHF 140,000! That's right! At this price, you'll get a brand-new, fully-furnished 40 m2 studio, a garage space, and all the essential infrastructure (swimming pool, fitness center, childcare center, coworking space, minimarket...). All this in a spectacularly developed, popular and modern district.",
+    "pricing": "This type of property is very popular with our investors, as it costs just 3,500 CHF per m² and generates returns of 10% or more. If you're looking for more luxurious properties in the Downtown (Burj Kalifa) or Marina areas, prices range from 6,500 to 8,000 CHF per m². A derisory figure when you consider that a square meter in Geneva flirts with the 20,000 CHF mark. And for those who desire ultra-luxury, prices will of course be much higher."
   }
 }
