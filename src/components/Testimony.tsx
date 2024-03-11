@@ -1,5 +1,6 @@
 import React from "react";
 import { useTranslations } from "next-intl";
+import VideoPlayer from "./VideoPlayer";
 
 export default function Testimony() {
   const t = useTranslations("Home");
@@ -13,6 +14,7 @@ export default function Testimony() {
           </div>
           <div className="bg-house"></div>
           <div></div>
+          <VideoPlayer />
       </div>
     </div>
   );

@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   title: "Swiss Immo Dubai",
   description: "Real estate in Dubai",
   icons: {
-    icon: './favicon.ico',
+    icon: "./favicon.ico",
   },
 };
 

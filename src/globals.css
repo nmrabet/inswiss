@@ -59,13 +59,20 @@
 }
 
 .glass-bg {
-  background-color:#002A3A;
-  border-bottom: 2px solid rgba(255, 255, 255, .1)
+  background-color: #002A3A;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
 }
 
 .bg-house {
   background-image: url(./assets/img/scetch-project-2\ 1.png);
-  background-position: contain;
-  height: 1000px;
+  background-size: 700px 700px;
+  height: 80vh;
   background-repeat: no-repeat;
+}
+
+.bg-drawing {
+  background-image: url(./assets/img/drawing-house\ 1.png);
+  background-size: 500px 500px;
+  background-repeat: no-repeat;
+  background-position-x: right ;
 }
