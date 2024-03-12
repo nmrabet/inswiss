@@ -8,10 +8,10 @@ export default function PreviewProject() {
   return (
     <div>
       <div className="bg-[#FAF9F7] py-20">
-        <div className="max-w-screen-xl mx-auto">
+        <div className="max-w-screen-xl ms-48">
           <h2 className="text-[32px] mb-4">{t("exclusiveProject")}</h2>
           <p className="w-[900px] text-[#8A8477]">{t("withUs")}</p>
-          <div className="my-14">
+          <div className="my-14 ">
             <Caroussel />
           </div>
           <button className="border-2 border-[#B5A88E] text-[#B5A88E] py-4 px-8 flex items-center space-x-2">

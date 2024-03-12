@@ -58,6 +58,14 @@
   background-position: center;
 }
 
+.background-process {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)),
+    url("./assets/img/skyscrapers-city-highrise-business-buildings.webp");
+  background-size: cover;
+  height: 80vh;
+  background-position: center;
+}
+
 .glass-bg {
   background-color: #002A3A;
   border-bottom: 2px solid rgba(255, 255, 255, 0.1);

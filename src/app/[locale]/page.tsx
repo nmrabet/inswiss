@@ -6,6 +6,8 @@ import Pricing from "@/components/Pricing";
 import PreviewProject from "@/components/PreviewProject";
 import Testimony from "@/components/Testimony";
 import Footer from "@/components/Footer";
+import ScrollToTop from "@/components/ScrollToTop";
+import VideoBanner from "@/components/VideoBanner";
 
 export default function Home() {
   return (
@@ -24,7 +26,11 @@ export default function Home() {
 
       <Testimony />
 
+      <VideoBanner />
+
       <Footer />
+
+      <ScrollToTop />
     </>
   );
 }

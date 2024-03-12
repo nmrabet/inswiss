@@ -46,19 +46,55 @@
     "knowMore": "En savoir plus",
     "testimonial": "Qu’en pensent nos clients ?",
     "tesimonialPres": "Découvrez ce que nos clients satisfaits ont à dire sur leur expérience avec Swiss Immo Dubai. Explorez leurs histoires inspirantes et rejoignez-nous pour réaliser vos propres succès immobiliers à Dubaï",
-    "Testimonies": {
-      "testimony1": {
-        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
-        "author": "Jane Doe"
-      },
-      "testimony2": {
-        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
-        "author": "Jane Doe"
-      },
-      "testimony3": {
-        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
-        "author": "Jane Doe"
-      }
+    "testimony1": {
+      "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+      "author": "Jane Doe"
+    },
+    "testimony2": {
+      "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+      "author": "Jane Doe"
+    },
+    "testimony3": {
+      "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+      "author": "Jane Doe"
     }
+  },
+  "AvantagesPage": {
+    "welcome": "Bienvenue",
+    "lesAvantages": "Les Avantages",
+    "pourquoi": "Pourquoi faire appel à",
+    "sectionTxt": "Notre mission est de veiller à ce que vous obteniez la meilleure offre possible pour une propriété de luxe à Dubai.",
+    "solution": "Solution simple, clé en mains depuis la Suisse",
+    "solutionSub": "Toutes les démarches sont facilités grâce à nos partenaires présents à Dubai.",
+    "mieuxConnaitre": "Mieux nous connaitre",
+    "appartements": "Appartements sur plan livré entre 2 et 4 ans",
+    "appartementsSub": "Vous êtes assurés d’obtenir un bien neuf entièrement meublé et équipé, immédiatement prêts à être mis en location.",
+    "voirSelection": "Voir notre sélection",
+    "rendements": "Des rendements entre 8 et 20%",
+    "rendementSub": "Une fois les clés reçues nous pouvons aussi nous occuper de la gérance des locations afin que votre investissement soit immédiatement rentable",
+    "nousContacte": "Nous contacter",
+    "acheter": "Les Avantages d'acheter à Dubai",
+    "profitsChiffres": "en moyenne de profit réalisé lors de \"flips\" immobiliers",
+    "taux": "Taux d'occupation moyen des logements à Dubai",
+    "rendementsattractif": "Rendements Attractifs",
+    "rendementsAttractifsTxt": "Les investisseurs immobiliers à Dubaï peuvent bénéficier de rendements locatifs attractifs, en particulier dans les zones à forte demande. De plus, les locations à l’année sont payées à l’avance pour une année complète.",
+    "proprieteFonciere": "Propriété foncière",
+    "proprieteFonciereTxt": "Contrairement à de nombreuses autres destinations, Dubaï permet la propriété foncière à 100 % dans certaines zones désignées, ce qui peut être un avantage pour les investisseurs étrangers",
+    "exonerationFiscal": "Exonération fiscale",
+    "exonerationFiscaleTxt": "Dubaï offre un environnement fiscal favorable, avec des exonérations d'impôts sur les revenus locatifs et les gains en capital pour certains types d'investisseurs. En tant que résident vous recevez un Golden Visa et vos revenus ne seront pas imposés. Cette option est un véritable plus pour nos retraités",
+    "stabilite": "Stabilité économique",
+    "stabiliteEconomique": "Dubaï jouit d'une stabilité économique relative et d'un environnement d'affaires favorable. Le gouvernement a mis en place des politiques visant à diversifier l'économie, ce qui contribue à réduire la dépendance aux revenus pétroliers.",
+    "croissanceRapide": "Croissance Rapide",
+    "croissanteRapideTxt": "Dubaï a connu une croissance rapide au cours des dernières décennies, ce qui a entraîné une forte demande de biens immobiliers. Les projets dedéveloppement continuent d'émerger, offrant de nouvelles opportunitésd'investissement. Un objet acheté sur plan vaudra souvent 30% à 50% de plus unefois livré.",
+    "infrasctructure": "Infrastructure de qualité",
+    "infrasctructureText": "Dubaï est connue pour ses infrastructures modernes et de haute qualité, avec des installations de classe mondiale, des transports efficaces etdes services publics fiables.",
+    "emplacement": "Emplacement stratégique",
+    "emplacmentTxt": "Située au carrefour de l'Europe, de l'Asie et de l'Afrique, Dubaï bénéficie d'un emplacement géographique stratégique, ce qui en fait un hubcommercial et financier international.",
+    "marche": "Marché international",
+    "marcheTxt": "Dubaï attire une population internationale diverse, ce qui enfait un marché attrayant pour la location et l'achat de biens immobiliers. Cela peutégalement offrir des opportunités de diversification géographique pour lesinvestisseurs.",
+    "qualite": "Qualité de vie",
+    "qualiteTxt": "Dubaï offre une haute qualité de vie avec de nombreuses options de divertissement, de loisirs, d'éducation et de soins de santé de classe mondiale.",
+    "perspectives": "Perspectives d'avenir",
+    "perspectivesTxt": "Alors que Dubaï continue de se développer et de diversifier son économie, les perspectives d'avenir pour le marché immobilier restent positives."
   }
 }

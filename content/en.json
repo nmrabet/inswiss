@@ -47,19 +47,55 @@
     "knowMore": "Find out more",
     "testimonial": "What do our customers think?",
     "tesimonialPres": "Find out what our satisfied customers have to say about their experience with Swiss Immo Dubai. Explore their inspiring stories and join us in achieving your own real estate successes in Dubai.",
-    "Testimonies": {
-      "testimony1": {
-        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
-        "author": "Jane Doe"
-      },
-      "testimony2": {
-        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
-        "author": "Jane Doe"
-      },
-      "testimony3": {
-        "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
-        "author": "Jane Doe"
-      }
+    "testimony1": {
+      "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+      "author": "Jane Doe"
+    },
+    "testimony2": {
+      "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+      "author": "Jane Doe"
+    },
+    "testimony3": {
+      "test": "Nunc hendrerit, justo vel ultricfsfs ieseleifend, ex ex pretium leo acfn ibus nulla eros consectetur eros. Cras vive neque at elit rutrum, id dictum magn hendrerit.",
+      "author": "Jane Doe"
     }
-  }
+  },
+  "AvantagesPage": {
+    "welcome": "Welcome",
+    "lesAvantages": "The Benefits",
+    "pourquoi": "Why",
+    "sectionTxt": "Our mission is to ensure that you get the best possible deal on a luxury property in Dubai.",
+    "solution": "Simple, turnkey solution from Switzerland",
+    "solutionSub": "Our partners in Dubai make the whole process easy for you",
+    "mieuxConnaitre": "Get to know us better",
+    "appartements": "Off-plan apartments delivered within 2 to 4 years",
+    "appartementsSub": "You're guaranteed a fully furnished and equipped new property, ready for immediate rental",
+    "voirSelection": "See our selection",
+    "rendements": "Yields between 8 and 20%",
+    "rendementSub": "Once we have received the keys, we can also take care of rental management, so that your investment is immediately profitable",
+    "nousContacte": "Contact us",
+    "acheter": "Advantages of buying in Dubai",
+    "profitsChiffres": "average profit on real estate flips",
+    "taux": "Average occupancy rate of homes in Dubai",
+    "rendementsattractif": "Attractive yields",
+    "rendementsAttractifsTxt": "Real estate investors in Dubai can benefit from attractive rental yields, especially in high-demand areas. What's more, year-round rentals are paid in advance for a full year.",
+    "proprieteFonciere": "Landed property",
+    "proprieteFonciereTxt": "Unlike many other destinations, Dubai allows 100% land ownership in certain designated areas, which can be an advantage for foreign investors.",
+    "exonerationFiscal": "Tax exemption",
+    "exonerationFiscaleTxt": "Dubai offers a favorable tax environment, with tax exemptions on rental income and capital gains for certain types of investors. As a resident you will receive a Golden Visa and your income will not be taxed. This option is a real plus for our retirees",
+    "stabilite": "Economic stability",
+    "stabiliteEconomique": "Dubai enjoys relative economic stability and a favorable business environment. The government has implemented policies to diversify the economy, helping to reduce dependence on oil revenues.",
+    "croissanceRapide": "Rapid growth",
+    "croissanteRapideTxt": "Dubai has experienced rapid growth over the last few decades, which has led to a strong demand for real estate. Development projects continue to emerge, offering new investment opportunities. A property purchased off-plan will often be worth 30% to 50% more once delivered",
+    "infrasctructure": "Quality infrastructure",
+    "infrasctructureText": "Dubai is known for its modern, high-quality infrastructure, with world-class facilities, efficient transport and reliable utilities.",
+    "emplacement": "Strategic location",
+    "emplacmentTxt": "Situated at the crossroads of Europe, Asia and Africa, Dubai enjoys a strategic geographic location, making it an international commercial and financial hub.",
+    "marche": "International market",
+    "marcheTxt": "Dubai attracts a diverse international population, making it an attractive market for renting and buying real estate. It can also offer investors opportunities for geographic diversification",
+    "qualite": "Quality of life",
+    "qualiteTxt": "Dubai offers a high quality of life with many world-class entertainment, leisure, education and healthcare options.",
+    "outlook": "Future prospects",
+    "perspectivesTxt": "As Dubai continues to develop and diversify its economy, future prospects for the real estate market remain positive."
+    }
 }
