@@ -30,13 +30,13 @@ const LangSwitcher: React.FC = () => {
 
   return (
     <div className="flex items-center justify-center bg-gray-100">
-      <div className="relative text-lg w-48">
+      <div className="relative text-lg w-20">
         <button
-          className="bg-[#002A3A] justify-between w-full border border-none text-white focus:outline-none focus:ring-blue-300 font-medium  text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+          className="bg-[#002A3A] hover:text-[#00DDFF] text-[12px] justify-between w-full border border-none text-white focus:outline-none focus:ring-blue-300 font-medium  text-sm px-5 py-2.5 text-center inline-flex items-center"
           onClick={() => setIsOptionsExpanded(!isOptionsExpanded)}
           onBlur={() => setIsOptionsExpanded(false)}
         >
-          Select Language
+          {pathname === "/fr" ? "FR" : "EN"}
           <svg
             fill="none"
             viewBox="0 0 24 24"
@@ -77,7 +77,7 @@ const LangSwitcher: React.FC = () => {
                   height={"20"}
                   alt="logo"
                 />
-                &nbsp;&nbsp;{option.country}
+                &nbsp;&nbsp;{option.code.charAt(0).toUpperCase() + option.code.slice(1)}
                 {pathname === `/${option.code}` && (
                   <svg
                     xmlns="http://www.w3.org/2000/svg"

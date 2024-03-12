@@ -15,7 +15,7 @@ export default function Navbar() {
       <nav className="sm:flex hidden items-center justify-center">
         <ul className="absolute top-8 flex items-center space-x-5 text-white">
           {navigationKeys.map((key) => (
-            <li key={key} className="animate pop delay-1">
+            <li key={key} className="text-[16px] hover:text-[#00DDFF] animate pop delay-1">
               <Link href={`/${key}`}>{t(`navigation.${key}`)}</Link>
             </li>
           ))}
