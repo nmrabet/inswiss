@@ -1,16 +1,10 @@
-import MainPagesHeader from "@/components/MainPagesHeader";
+import React from 'react'
 import Navbar from "@/components/Navbar";
-import React from "react";
-import Advantages from "@/components/HeroAdvantage";
 
-export default function Steps() {
+export default function page() {
   return (
-    <>
+    <div>
       <Navbar />
-
-      <MainPagesHeader />
-
-      <Advantages />
-    </>
-  );
+    </div>
+  )
 }
